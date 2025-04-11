@@ -21,10 +21,7 @@
 pip install yfinance pandas matplotlib
 ```
 ## ▶️ 執行程式
-```bash
-python 0050.py
-```
-## 📜 程式碼內容（0050.py）
+程式碼內容（0050.py）
 <details>
 <summary><h3>點我展開0050.py</h3></summary>
     
@@ -69,7 +66,7 @@ plt.show()
 ```
 </details>
 
-## 執行後會自動下載0050的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
+## 📜執行後會自動下載0050的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
 
 📈 收盤價折線圖（`matplotlib`繪製）
 
