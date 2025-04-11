@@ -31,8 +31,6 @@ history_data['Date'] = pd.to_datetime(history_data['Date'])
 history_data.set_index('Date', inplace=True)
 ```
 ### 3️⃣ 執行 0050.py 程式
-bash
-複製程式碼
 python 0050.py
 ### 📜 程式碼內容（0050.py）
 ```python
