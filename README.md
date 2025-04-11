@@ -83,3 +83,10 @@ plt.show()
 
 ## 🪪 授權 License
 本專案使用 MIT License，歡迎自由使用與修改。
+
+<details>
+  <summary>點我展開範例程式碼</summary>
+
+```python
+print("Hello World!")
+</details> ```
