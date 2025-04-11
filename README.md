@@ -8,14 +8,10 @@
 
 1. 安裝 Python（建議使用 Python 3.x）
 2. 安裝所需套件：
-
-pip install matplotlib pandas
-
-kotlin
-複製程式碼
-
+```python
+!pip install matplotlib pandas
+```
 3. 把你的股價資料放入一個 pandas 的 DataFrame，命名為 `history_data`，它需要包含「收盤價」和日期，像這樣：
-
 ```python
 import pandas as pd
 
