@@ -26,7 +26,7 @@ python 0050.py
 ```
 ## 📜 程式碼內容（0050.py）
 <details>
-<h2><summary>點我展開0050.py</summary></h2>
+<summary><h2>點我展開0050.py</h2></summary>
     
 ```python
 import pandas as pd
@@ -69,7 +69,7 @@ plt.show()
 ```
 </details>
 
-#執行後會自動下載 0050.TW 的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
+# 執行後會自動下載 0050.TW 的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
 
 📈 收盤價折線圖（matplotlib 繪製）
 
