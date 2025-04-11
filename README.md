@@ -26,7 +26,7 @@ python 0050.py
 ```
 ## 📜 程式碼內容（0050.py）
 <details>
-    ##<summary>點我展開0050.py</summary>
+<h2><summary>點我展開0050.py</summary></h2>
     
 ```python
 import pandas as pd
