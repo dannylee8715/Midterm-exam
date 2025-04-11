@@ -31,13 +31,13 @@ python 0050.py
 🔵 最低點標記
 
 ## 🧾 檔案說明
--0050.py：主程式，畫圖與資料擷取
--README.md：專案說明文件
+- 0050.py：主程式，畫圖與資料擷取
+- README.md：專案說明文件
 
 ## 📚 使用套件
--pandas：處理時間序列資料
--matplotlib：畫圖用
--yfinance：抓 Yahoo 股市的資料
+- pandas：處理時間序列資料
+- matplotlib：畫圖用
+- yfinance：抓 Yahoo 股市的資料
 
 ## 🪪 授權 License
 本專案使用 MIT License，歡迎自由使用與修改。
