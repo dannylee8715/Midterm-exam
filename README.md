@@ -1,4 +1,4 @@
-<img src="Midterm-examQR.png" alt="QR Code" width="400"/>
+<img src="Midterm-examQR.png" alt="QR Code" width="200"/>
 
 ## 本網址QR Code
 
