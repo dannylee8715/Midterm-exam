@@ -69,9 +69,9 @@ plt.show()
 ```
 </details>
 
-### 執行後會自動下載 0050.TW 的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
+## 執行後會自動下載0050的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
 
-📈 收盤價折線圖（`matplotlib` 繪製）
+📈 收盤價折線圖（`matplotlib`繪製）
 
 🔴 最高點標記
 
@@ -84,9 +84,9 @@ plt.show()
 - README.md：專案說明文件
 
 ## 📚 使用套件
-- pandas：處理時間序列資料
-- matplotlib：畫圖用
-- yfinance：抓 Yahoo 股市的資料
+- `pandas`：處理時間序列資料
+- `matplotlib`：畫圖用
+- `yfinance`：抓 Yahoo 股市的資料
 
 ## 🪪 授權 License
 本專案使用 MIT License，歡迎自由使用與修改。
