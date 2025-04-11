@@ -1,3 +1,4 @@
+![QR Code](Midterm-exam.png)
 # 0050 ETF 股價趨勢分析(Python + Yahoo Finance)
 
 本專案是用 Python 畫出台灣 0050 ETF（股票代碼：0050.TW）最近 6 個月的股價走勢圖，並標示出最高與最低點。
