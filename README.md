@@ -27,7 +27,8 @@ data = {
 history_data = pd.DataFrame(data)
 history_data['Date'] = pd.to_datetime(history_data['Date'])
 history_data.set_index('Date', inplace=True)
-執行 0050_stock_trend.py，它會顯示股價走勢圖，並標記出最高點與最低點。
+```
+4. 執行 0050_stock_trend.py，它會顯示股價走勢圖，並標記出最高點與最低點。
 
 📁 專案檔案說明
 0050.py：主程式，負責畫圖
