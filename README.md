@@ -25,6 +25,7 @@ pip install yfinance pandas matplotlib
 python 0050.py
 ```
 ## 📜 程式碼內容（0050.py）
+<details>
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -64,6 +65,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+</details>
 執行後會自動下載 0050.TW 的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
 
 📈 收盤價折線圖（matplotlib 繪製）
@@ -83,11 +85,3 @@ plt.show()
 
 ## 🪪 授權 License
 本專案使用 MIT License，歡迎自由使用與修改。
-
-<details>
-  點我展開範例程式碼
-
-```python
-print("Hello World!")
-```
-</details>
