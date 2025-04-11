@@ -1,4 +1,5 @@
 <img src="Midterm-examQR.png" alt="QR Code" width="200"/>
+
 ## 本網址QR Code
 
 # 0050 ETF 股價趨勢分析(Python + Yahoo Finance)
