@@ -19,27 +19,25 @@
 
 ```bash
 pip install yfinance pandas matplotlib
-▶️ 執行程式
-bash
-複製程式碼
+```
+## ▶️ 執行程式
+```bash
 python 0050.py
+```
 執行後會自動下載 0050.TW 的股價資料，並顯示如下圖表（包含最高與最低點的標示）：
 
-複製程式碼
 📈 收盤價折線圖（matplotlib 繪製）
 🔴 最高點標記
 🔵 最低點標記
-🧾 檔案說明
-0050.py：主程式，畫圖與資料擷取
 
-README.md：專案說明文件
+## 🧾 檔案說明
+-0050.py：主程式，畫圖與資料擷取
+-README.md：專案說明文件
 
-📚 使用套件
-pandas：處理時間序列資料
+## 📚 使用套件
+-pandas：處理時間序列資料
+-matplotlib：畫圖用
+-yfinance：抓 Yahoo 股市的資料
 
-matplotlib：畫圖用
-
-yfinance：抓 Yahoo 股市的資料
-
-🪪 授權 License
+## 🪪 授權 License
 本專案使用 MIT License，歡迎自由使用與修改。
