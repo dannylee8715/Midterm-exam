@@ -12,8 +12,6 @@
 
 pip install matplotlib pandas
 
-yaml
-複製程式碼
 
 ---
 
@@ -31,13 +29,13 @@ data = {
 history_data = pd.DataFrame(data)
 history_data['Date'] = pd.to_datetime(history_data['Date'])
 history_data.set_index('Date', inplace=True)
-3️⃣ 執行 0050.py 程式
+```
+###3️⃣ 執行 0050.py 程式
 bash
 複製程式碼
 python 0050.py
-📜 程式碼內容（0050.py）
-python
-複製程式碼
+###📜 程式碼內容（0050.py）
+```python
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
 
@@ -57,16 +55,14 @@ plt.xlabel('日期')
 plt.ylabel('價格')
 plt.grid(True)
 plt.show()
-📂 檔案說明
+```
+###📂 檔案說明
 0050.py：主要繪圖程式
 
 README.md：專案說明文件
 
-✅ 結果展示
+###✅ 結果展示
 執行後會顯示 0050 ETF 的收盤價走勢圖，並用紅點標記最高點、藍點標記最低點 📈
 
-🪪 License
+###🪪 License
 本專案採用 MIT License，歡迎自由使用與修改。
-
-yaml
-複製程式碼
