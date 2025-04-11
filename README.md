@@ -21,7 +21,6 @@
 pip install yfinance pandas matplotlib
 ```
 ## ▶️ 執行程式
-程式碼內容（0050.py）
 <details>
 <summary><h3>點我展開0050.py</h3></summary>
     
