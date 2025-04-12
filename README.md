@@ -1,5 +1,5 @@
 <details>
-<summary><h1>點我 本網址QR Code</h1></summary>
+<summary><h2>點我 本網址QR Code</h2></summary>
     <img src="Midterm-examQR.png" alt="QR Code" width="200"/>
 </details>
 
