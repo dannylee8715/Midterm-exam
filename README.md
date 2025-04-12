@@ -1,6 +1,7 @@
-<img src="Midterm-examQR.png" alt="QR Code" width="200"/>
-
-## 本網址QR Code
+<details>
+<summary><h1>點我 本網址QR Code</h1></summary>
+    <img src="Midterm-examQR.png" alt="QR Code" width="200"/>
+</details>
 
 # 0050 ETF 股價趨勢分析(Python + Yahoo Finance)
 
