@@ -88,6 +88,3 @@ plt.show()
 - `pandas`：處理時間序列資料
 - `matplotlib`：畫圖用
 - `yfinance`：抓 Yahoo 股市的資料
-
-## 🪪 授權 License
-本專案使用 MIT License，歡迎自由使用與修改。
