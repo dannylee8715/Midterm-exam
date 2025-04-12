@@ -41,7 +41,7 @@ history_data = ticker.history(period="6mo")
 
 # 如果找不到資料就停止
 if history_data.empty:
-raise Exception("找不到 0050.TW 的歷史資料，請確認網路或股票代碼是否正確。")
+    raise Exception("找不到 0050.TW 的歷史資料，請確認網路或股票代碼是否正確。")
 
 # 計算最高與最低點
 max_price = history_data['Close'].max()
